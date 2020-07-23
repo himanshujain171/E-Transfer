@@ -32,6 +32,7 @@ int main ()
       char ch,id[100];
       int wallet=1000;
       //unsigned long long num;
+      system("cls");
       printf("\n");
       printf("%95s","======= Welcome to E-transfer - A Digital Wallet Company =======\n\n");
 
