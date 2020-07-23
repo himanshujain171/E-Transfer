@@ -1,2 +1,8 @@
 # E-Transfer
-E-transfer - A Digital Wallet Company
+C program implementation of money transfer system
+
+### Complie & Run
+```
+> gcc money_transfer.c
+> ./a.out
+```
